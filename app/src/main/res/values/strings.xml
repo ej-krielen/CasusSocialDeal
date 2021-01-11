@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CasusSocialDeal</string>
+    <string name="currency">€</string>
+    <string name="deal_detail_buy_now">KOOP NU</string>
+    <string name="deal_details_directions">Routebeschrijving</string>
+    <string name="deal_details_locations">Locaties</string>
+</resources>
